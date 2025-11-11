@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokulakrishnan</h1>
 <h3 align="center">💡📚 I am a passionate Full Stack Developer from India, ready to learn new technologies and enhance my skills continuously.🚀 💻 A motivated learner and a student, eager to explore new technologies and contribute to the developer community.⚡ Fast developer and a reliable team member, always ready to take on new challenges and work collaboratively.<br>Let's connect and create something amazing together! 🌟</h3>
 
-- 🔭 I’m currently working on **Collab-Sphere - A Project management tool**
-
 - 💬 Ask me about **ReactJs, NextJs, Java**
 
 - 📫 How to reach me **krishnagokul1729@gmail.com**
